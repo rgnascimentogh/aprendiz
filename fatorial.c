@@ -2,6 +2,7 @@
 
 int main()
 {
+    printf("\n esse programa calcula o fatorial.")
     float a , n, i,b;
     printf("\nDigite o numero: ");
     scanf("%f",&n);
