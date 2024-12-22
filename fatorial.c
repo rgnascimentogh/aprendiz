@@ -13,6 +13,7 @@ int main()
         //printf("%f,%f,%f\t",a,i,n);
     }
     printf("%f\t",a);
+    printf("%f,%f,%f\t",a,i,n);
 
     return 0;
 }
